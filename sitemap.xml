@@ -2,10 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://StevenYean.github.io/categories/</loc>
+    <loc>https://stevenyean.github.io/about/</loc>
+    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://StevenYean.github.io/</loc>
+    <loc>https://stevenyean.github.io/post/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://StevenYean.github.io/tags/</loc>
+    <loc>https://stevenyean.github.io/scg-dallas-viz/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stevenyean.github.io/</loc>
+    <lastmod>2022-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stevenyean.github.io/nightfall-guide/</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stevenyean.github.io/all-in-devoted/</loc>
+    <lastmod>2019-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stevenyean.github.io/enfield-tournament-report/</loc>
+    <lastmod>2019-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stevenyean.github.io/categories/</loc>
+  </url><url>
+    <loc>https://stevenyean.github.io/tags/</loc>
   </url>
 </urlset>
